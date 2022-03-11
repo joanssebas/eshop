@@ -9,9 +9,10 @@ const Banner = () => {
 
   useEffect(() => {
     setBannerData([
-      "https://images.vexels.com/media/users/3/126443/preview2/ff9af1e1edfa2c4a46c43b0c2040ce52-macbook-pro-touch-bar-banner.jpg",
-      "https://pbs.twimg.com/media/D7P_yLdX4AAvJWO.jpg",
-      "https://www.yardproduct.com/blog/wp-content/uploads/2016/01/gardening-banner.jpg",
+      "https://cdn.vox-cdn.com/thumbor/P89rPylJxk7ks3FVw5HDE9mgds8=/0x173:2450x1456/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20081590/ps5.png",
+      "https://www.destreaming.es/wp-content/uploads/2020/11/pc_para_streaming_gaming.jpg",
+      "https://cdn.tech-latest.com/wp-content/uploads/2021/09/Apple-iPhone-13-5-1024x576.jpg",
+      "https://www.soyfutbol.com/__export/1557939243447/sites/debate/img/2019/05/15/fifa_19_portada.jpg_1364161016.jpg",
     ]);
 
     return () => {

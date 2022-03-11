@@ -7,7 +7,7 @@ const Header = () => {
       <Image
         source={require("../assets/logo-login.png")}
         resizeMode="contain"
-        style={{height: 50}}
+        style={{height: 80}}
       />
     </SafeAreaView>
   );
